@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
+Sqlite3: this is comes with Python's standard library
